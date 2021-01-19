@@ -1,9 +1,9 @@
- Sql ---------------------------->   Completed
+ Sql ----------------------------> completed (some queries pending)
 
 
 		Java
 Assignment-1 ----------------------> Completed 
 Assignment-2 ----------------------> Completed
 Assignment-3 ----------------------> completed
-Assignment-4 ----------------------> Completed 
+Assignment-4 ----------------------> Completed (doubts in inheritance)
 Assignment-5 ----------------------> Completed
