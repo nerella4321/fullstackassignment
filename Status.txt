@@ -1,9 +1,12 @@
- Sql ----------------------------> completed (some queries pending)
+ MySql Assignments
+1----------> completed(Assignment-1)
+2----------> DML 5 Pending (Assignment-2)
 
 
-		Java
-Assignment-1 ----------------------> Completed 
-Assignment-2 ----------------------> Completed
-Assignment-3 ----------------------> completed
-Assignment-4 ----------------------> Completed (doubts in inheritance)
-Assignment-5 ----------------------> Completed
+		Java Assignment
+
+1--------------->Completed name of the assignment(Exam)
+2--------------->Completed name of the assignment(EmployeeDetails)
+3--------------->Completed name of the assignment(Details)
+4--------------->Completed name of the assignment(Assignment 4)
+5--------------->Completed name of the assignment(Assignment 5)
