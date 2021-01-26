@@ -1,4 +1,4 @@
-package Bean;
+package bean;
 
 public class Product {
 private int pid;
